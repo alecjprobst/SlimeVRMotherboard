@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name SlimeVRLibrary)(type Legacy)(uri ${KIPRJMOD}/SlimeVRLibrary.lib)(options "")(descr ""))
+  (lib (name wemos_mini)(type Legacy)(uri ${KIPRJMOD}/wemos-d1-mini-kicad-master/libraries/wemos_mini.lib)(options "")(descr ""))
+  (lib (name SlimeVRMotherBoard-rescue)(type Legacy)(uri ${KIPRJMOD}/SlimeVRMotherBoard-rescue.lib)(options "")(descr ""))
+)

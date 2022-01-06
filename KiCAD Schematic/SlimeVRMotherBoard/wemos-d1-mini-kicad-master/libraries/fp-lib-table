@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name wemos-d1-mini)(type KiCad)(uri /mnt/old-system/data/git/wemos-d1-mini-kicad/modules/wemos-d1-mini.pretty)(options "")(descr ""))
+)

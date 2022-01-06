@@ -1,0 +1,38 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 4056Board-SlimeVRLibrary
+#
+DEF 4056Board-SlimeVRLibrary U 0 40 Y Y 1 F N
+F0 "U" -300 350 50 H V C CNN
+F1 "4056Board-SlimeVRLibrary" 150 -350 50 H V C CNN
+F2 "" 0 -100 50 H I C CNN
+F3 "" 0 -100 50 H I C CNN
+DRAW
+S -250 150 -250 150 0 1 0 N
+P 5 0 1 0 -350 300 350 300 350 -300 -350 -300 -350 300 N
+X Battery+ ~ -450 50 100 R 50 50 1 1 I
+X Battery- ~ -450 -50 100 R 50 50 1 1 I
+X Out+ ~ 450 50 100 L 50 50 1 1 O
+X Out- ~ 450 -50 100 L 50 50 1 1 O
+X RB+ ~ -50 400 100 D 50 50 1 1 I
+X RB- ~ 50 400 100 D 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# SlideSwitch-SlimeVRLibrary
+#
+DEF SlideSwitch-SlimeVRLibrary S 0 40 Y Y 1 F N
+F0 "S" 0 200 50 H V C CNN
+F1 "SlideSwitch-SlimeVRLibrary" 0 -200 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 5 0 1 0 50 -150 -50 -150 -50 150 50 150 50 -150 N
+X Terminal_1 1 150 100 100 L 50 50 1 1 I
+X Terminal_2 2 -150 0 100 R 50 50 1 1 I
+X Terminal_3 3 150 -100 100 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

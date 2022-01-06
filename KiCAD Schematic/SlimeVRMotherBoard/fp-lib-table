@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name SlimeVRMotherBoard)(type KiCad)(uri "C:/Users/alecj/Desktop/SlimeVR Build/KiCAD Schematic/SlimeVRMotherBoard")(options "")(descr ""))
+  (lib (name wemos-d1-mini)(type KiCad)(uri ${KIPRJMOD}/wemos-d1-mini-kicad-master/modules/wemos-d1-mini.pretty)(options "")(descr ""))
+  (lib (name "Extra Footprints")(type KiCad)(uri "${KIPRJMOD}/Extra Footprints")(options "")(descr ""))
+)
