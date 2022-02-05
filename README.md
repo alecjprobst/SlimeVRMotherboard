@@ -38,7 +38,7 @@ To buy the PCB, we will use JLC PCB. Their website can be found here: https://jl
 
 ![Images/JPCPCB_Upload 1.png](Images/JLCPCB_Upload%201.png)
 
-![Images/JLCPCB_Upload_Settings.PNG](Images/JLCPCB_Upload_Settings.PNG)
+![Images/JLCPCB_Upload Settings.png](Images/JLCPCB_Upload Settings.png)
 
 ## STL Files and Description
 
