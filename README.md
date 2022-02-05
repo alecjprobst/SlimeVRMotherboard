@@ -36,6 +36,10 @@ Buying a PCB is very simple. Download this repo by clicking the green "Code" but
 
 To buy the PCB, we will use JLC PCB. Their website can be found here: https://jlcpcb.com/. Click on the text that says "Add gerber file" and find and select the "SlimeVR Motherboard Gerbers V1.1.zip" you just moved. Open the "JLCPCB_Upload_Settings.png" file and make sure the settings between the picture and what jlcpcb have shown you are the same. Feel free to change the PCB color to whatever you like (purple looks great!). Click "Save to Cart" then buy your PCB's. This process should be the same as any other online purchase from here on out.
 
+![Images/JPCPCB_Upload 1.png](Images/JLCPCB_Upload%201.png)
+
+![Images/JLCPCB_Upload_Settings.png](Images/JLCPCB_Upload_Settings.png)
+
 ## STL Files and Description
 
 All STL's were created in Fusion360. Please feel free to modify them as you see fit. If you do not have a 3D printer, you can print the cases from jcpcb or you may want to consider 3D printing sites like [Hubs](https://www.hubs.com/3d-printing/) or [Sculpteo](https://www.sculpteo.com/en/).
@@ -105,7 +109,7 @@ To add the IMU, first cut out 6 wires of around 25mm long and strip the ends of 
 
 ![Images/IMU Wiring.jpg](Images/IMU%20Wiring.jpg)
 
-Solder the wires as shown below. Generally it is easier to solder to the PCB first then the IMU but this may be personal preference. Cut the excess wire after soldering
+Solder the wires as shown below. Generally it is easier to solder to the PCB first then the IMU but this may be personal preference. Cut the excess wire after soldering. Note: the AD0 wire is missing in the two pictures below and is required.
 
 ![Images/IMU Soldering 1.jpg](Images/IMU%20Soldering%201.jpg)
 
