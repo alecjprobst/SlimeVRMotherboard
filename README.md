@@ -1,6 +1,6 @@
 ﻿# SlimeVR Motherboard
 
-This is a project to make it easier to create SlimeVR trackers. This project reduces the amount of cable management needed when making SlimeVR trackers by providing a PCB that can be made for only $2. Beginner instructions on how to buy a PCB are below
+This is a project to make it easier to create SlimeVR trackers. This project reduces the amount of cable management needed when making SlimeVR trackers by providing a PCB that can be made for only $2. Beginner instructions on how to buy a PCB are below. Total cost should be around $55-60 for an enhanced core set excluding the cost of cases and straps.
 
 # Sections
 
