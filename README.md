@@ -1,4 +1,4 @@
-# SlimeVR Motherboard
+﻿# SlimeVR Motherboard
 
 This is a project to make it easier to create SlimeVR trackers. This project reduces the amount of cable management needed when making SlimeVR trackers by providing a PCB that can be made for only $2. Beginner instructions on how to buy a PCB are below
 
@@ -7,7 +7,7 @@ This is a project to make it easier to create SlimeVR trackers. This project red
  - Parts and Setup
  - PCB Files and Submission
  - STL Files and Description
- - Images
+ - Assembly Instructions
 
 ## Parts and Setup
 
@@ -38,12 +38,13 @@ To buy the PCB, we will use JLC PCB. Their website can be found here: https://jl
 
 ## STL Files and Description
 
-All STL's were created in Fusion360. Please feel free to modify them as you see fit. If you do not have a 3D printer, you may want to consider 3D printing sites like [Hubs](https://www.hubs.com/3d-printing/) or [Sculpteo](https://www.sculpteo.com/en/).
+All STL's were created in Fusion360. Please feel free to modify them as you see fit. If you do not have a 3D printer, you can print the cases from jcpcb or you may want to consider 3D printing sites like [Hubs](https://www.hubs.com/3d-printing/) or [Sculpteo](https://www.sculpteo.com/en/).
 
 Cases can be printed on an FDM printer at .2mm layer height.
 
 A single SlimeVR Tracker case requires two parts, a Higher_Body.stl and a Lower_Body.stl. Both of these parts can be printed without supports. The Lower_Body.stl has poles to mount the PCB inside of the case so it does not shake. It is recommended to add hot glue to make sure the PCB does not move at all. Both cases have holes for charging and access to the D1 Mini as well as the switch and AUX tracker cable. The cases should slide together after being printed and should be somewhat difficult to pull apart.
 
-## Images
-
-Images currently only contains a single image of how to define the IMU's rotation in software based on its rotation. More images will come later to show more of the build and ordering process
+## Assembly Instructions
+A Knolled layout of all parts needed for one tracker is shown in this picture. Please note that your IMU's may look different and the resistor and diodes are optional.
+![Part Knolling](https://github.com/alecjprobst/SlimeVRMotherboard/blob/main/Images/Part%20Knolling.jpg)
+![Part Knolling](Images/Part%20Knolling.jpg)
