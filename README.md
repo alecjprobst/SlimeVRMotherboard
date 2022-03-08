@@ -32,7 +32,7 @@ All PCB files are included in this repo in the KiCAD Schematic Folder. Please fe
 
 ## PCB Submission 
 
-Buying a PCB is very simple. Download this repo by clicking the green "Code" button towards the top of this page then click "Download ZIP". You will start downloading a ZIP file contain this entire repo. Open the zip file and find the "SlimeVR Motherboard Gerbers V1.1.zip" and "JLCPCB_Upload_Settings.png" file. Drag these to your desktop or a folder of your choice. 
+Buying a PCB is very simple. Download this repo by clicking the green "Code" button towards the top of this page then click "Download ZIP". You will start downloading a ZIP file contain this entire repo. Open the zip file and find the "SlimeVR Motherboard Gerbers V1.2.rar" and "JLCPCB_Upload_Settings.png" file. Drag these to your desktop or a folder of your choice. 
 
 To buy the PCB, we will use JLC PCB. Their website can be found here: https://jlcpcb.com/. Click on the text that says "Add gerber file" and find and select the "SlimeVR Motherboard Gerbers V1.1.zip" you just moved. Open the "JLCPCB_Upload_Settings.png" file and make sure the settings between the picture and what jlcpcb have shown you are the same. Feel free to change the PCB color to whatever you like (purple looks great!). Click "Save to Cart" then buy your PCB's. This process should be the same as any other online purchase from here on out.
 
